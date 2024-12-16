@@ -41,26 +41,26 @@ The goals are to:
 
 ## VISUALS INSIGHTS AND RECOMMENDATIONS
 Relationship between bounce rate & average session duration
-Insight:
+- Insight:
 -	From the analysis no clear correlation between bounce rate and session duration. This suggests that even when users stay on the app or website longer, it doesn’t necessarily reduce the likelihood of them bouncing (leaving the app without taking any meaningful action). 
 -	Other factors may be contributing more significantly to the bounce rate than session duration.
-Recommendation:
+- Recommendation:
 -	Focus on improving the quality of engagement. Identify which features, content, or products users are interacting with during their sessions and optimize those to reduce bounce rates.
 -	Segment User Behaviour: Investigate segmenting the data further to identify patterns that may explain why some users bounce quickly while others spend more time.
 
 Year on year page view and checkout 
-Insight:
+- Insight:
 -	There is a declining trend in both page views and checkouts over the years, with page views dropping from 28.57% in 2020 to 19.39% in 2023 and checkouts decreasing similarly. . This could be caused by outdated website design, poor user experience, lack of targeted marketing.
-Recommendation:
+- Recommendation:
 -	Conduct User Research: Analyse user behaviour using tools like Google Analytics or heatmaps to identify drop-off points in the customer journey.
 -	Optimize Marketing: Implement personalized email campaigns, social media ads, and SEO strategies to attract new customers and re-engage existing ones.
 -	Improve UX/UI: Update the website design, improve mobile responsiveness, and simplify the checkout process.
 
 Feedback Content 
-Insight:
+- Insight:
 -	Check out process: Feedback indicates a need for improvement in the checkout process, despite the app's user-friendliness. 
 -	Search Functionality Issues: Issues with the search feature are also causing friction, potentially leading to cart abandonment or low conversion rates.
-Recommendation:
+- Recommendation:
 -	Optimize Checkout Process: The analysis suggests optimizing the checkout process by simplifying steps, making payment and shipping options intuitive, and implementing features like guest checkout and transparent pricing.
 -	Improve Search Functionality: Enhancing search functionality through audits, filters, sorting options, and search analytics can improve user experience and prioritize frequently searched items.
 
